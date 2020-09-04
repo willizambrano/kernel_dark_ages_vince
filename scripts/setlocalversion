@@ -165,3 +165,4 @@ fi
 res="${res}${CONFIG_LOCALVERSION}${LOCALVERSION}"
 
 echo "$res"
+
