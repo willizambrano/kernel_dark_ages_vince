@@ -1,6 +1,7 @@
 #include "vince-general.dtsi"
 #include "vince-pinctrl.dtsi"
 #include "vince-pm.dtsi"
+#include "vince-cpu.dtsi"
 #include "vince-regulator.dtsi"
 #include "vince-audio.dtsi"
 #include "vince-mdss.dtsi"
